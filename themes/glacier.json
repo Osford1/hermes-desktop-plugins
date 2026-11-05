@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "name": "Glacier",
+  "description": "Cool slate with a deep teal accent, darker than Sunstone, built to sit under the glass layer.",
+  "colors": {
+    "canvas": "#eef2f4",
+    "paper": "#fbfdfe",
+    "input": "#fbfdfe",
+    "ink": "#16232a",
+    "muted": "#48595f",
+    "line": "#6d818a",
+    "primary": "#116974",
+    "primaryDeep": "#dfe8ec",
+    "onPrimary": "#ffffff",
+    "accent": "#116974",
+    "onAccent": "#ffffff",
+    "danger": "#b3261e",
+    "onDanger": "#ffffff",
+    "shellForeground": "#16232a"
+  },
+  "darkColors": {
+    "canvas": "#0d1417",
+    "paper": "#162024",
+    "input": "#1b262b",
+    "ink": "#e8f1f4",
+    "muted": "#9fb3bb",
+    "line": "#647a84",
+    "primary": "#45c8bf",
+    "primaryDeep": "#070c0e",
+    "onPrimary": "#05191a",
+    "accent": "#45c8bf",
+    "onAccent": "#05191a",
+    "danger": "#ff6b6b",
+    "onDanger": "#2a0a0a",
+    "shellForeground": "#e8f1f4"
+  }
+}

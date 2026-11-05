@@ -1,0 +1,5 @@
+name: tracker-kanban
+version: 1.0.0
+description: "Personal Kanban board page — a tasks.md (Today/This Week/Backlog/Waiting on/Done) row on top, a tracker.md project table below. Read-only view of two markdown files; point the backend at your own with TRACKER_KANBAN_TASKS and TRACKER_KANBAN_TRACKER."
+author: Chen Bin
+kind: dashboard

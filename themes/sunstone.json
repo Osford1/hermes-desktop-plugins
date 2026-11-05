@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "name": "Sunstone",
+  "description": "Warm glass: terracotta accent, warm graphite neutrals, matched light and dark appearance.",
+  "colors": {
+    "canvas": "#efe6d8",
+    "paper": "#fffdfb",
+    "input": "#fffdfb",
+    "ink": "#2b2117",
+    "muted": "#65584a",
+    "line": "#8d7962",
+    "primary": "#a04a08",
+    "primaryDeep": "#ede4d8",
+    "onPrimary": "#ffffff",
+    "accent": "#a04a08",
+    "onAccent": "#ffffff",
+    "danger": "#b3261e",
+    "onDanger": "#ffffff",
+    "shellForeground": "#2b2117"
+  },
+  "darkColors": {
+    "canvas": "#1b1714",
+    "paper": "#262019",
+    "input": "#2e2620",
+    "ink": "#f6efe6",
+    "muted": "#bca894",
+    "line": "#87735e",
+    "primary": "#e8a33d",
+    "primaryDeep": "#12100e",
+    "onPrimary": "#241505",
+    "accent": "#e8a33d",
+    "onAccent": "#241505",
+    "danger": "#ff7a66",
+    "onDanger": "#2a0f08",
+    "shellForeground": "#f6efe6"
+  }
+}

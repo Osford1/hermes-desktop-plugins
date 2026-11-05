@@ -1,0 +1,23 @@
+# Node (no build step here, but plugin sources are ESM and a fork may add tooling)
+node_modules/
+npm-debug.log*
+yarn-error.log*
+
+# Python (the tracker-kanban backend)
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Editors and OS noise
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Local odds and ends — never commit a real path into the board's env vars
+.env
+*.local
+scratch/

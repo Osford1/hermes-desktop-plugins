@@ -1,0 +1,6 @@
+# No line-ending normalisation anywhere in this repository.
+#
+# plugins/**/plugin.js are byte-for-byte copies of the files the desktop app loads, and the docs
+# invite you to verify that with md5sum against your own installed copies. A git checkout that
+# rewrote CRLF to LF would silently break that check, so git is told to leave every file alone.
+* -text
